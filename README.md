@@ -5,9 +5,11 @@
 - Papers :
 
 1- kNNVWCAnefficientk-nearestneighboursapproachbasedonVarious-WidthsClustering
+
 2- RotVanMooGha10
 
--Datasets :
+- Datasets :
 
 1- DoS attack dataset
+
 2- NSL-KDD dataset
